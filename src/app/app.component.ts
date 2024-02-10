@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
-import { TabbedPaneComponent } from "./tabbed-pane/tabbed-pane.component";
-import { TabComponent } from "./tab/tab.component";
+import { TabbedPaneComponent } from "./tabs/tabbed-pane.component";
+import { TabComponent } from "./tabs/tab.component";
 
 @Component({
     selector: 'app-root',
